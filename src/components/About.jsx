@@ -5,7 +5,7 @@ const About = () => {
     <div style={{ textAlign: "center" }}>
       <h4>Version 1.0.0</h4>
       <p>
-        <a href="https://github.com/TheSkybreaker" target="_blank">
+        <a href="https://github.com/TheSkybreaker" target="_blank" rel="noreferrer">
           My github
         </a>
       </p>
